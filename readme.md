@@ -1,4 +1,4 @@
-# Restoration Lab — Generative AI Assignment 1
+# Restoration Lab 
 
 A browser-based application for multi-corruption image restoration and style-conditioned face-to-sketch generation, built with React + Tailwind CSS (frontend) and FastAPI + ONNX Runtime (backend).
 
